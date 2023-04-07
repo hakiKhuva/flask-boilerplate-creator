@@ -3,7 +3,7 @@ Generate boilerplate structure for flask web app
 
 author: Harkishan Khuva <harkishankhuva.pythonanywhere.com>
 created date: 07/04/2023 IST
-version: 0.0.2
+version: 0.0.3
 """
 
 # :: IMPORTS

@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="Flask Boilerplate Creator",
-    version="0.0.2",
+    version="0.0.3",
     description="Create boilerplate structure of flask web application",
     author="Harkishan Khuva",
     author_email="hakitechy@gmail.com",
@@ -13,7 +13,7 @@ setup(
         "fbc": "flask-boilerplate-creator"
     },
     classifiers=[
-        "Environment :: Web Environment",
+        "Environment :: Console",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
