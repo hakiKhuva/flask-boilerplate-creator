@@ -1,6 +1,12 @@
 # Flask Boilerplate Creator
 Create boilerplate for flask web application
 
+Install using pip
+
+```cmd
+> pip install Flask-Boilerplate-Creator
+```
+
 run the Flask-Boilerplate-Creator
 
 ```cmd

@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="Flask Boilerplate Creator",
-    version="0.0.1",
+    version="0.0.2",
     description="Create boilerplate structure of flask web application",
     author="Harkishan Khuva",
     author_email="hakitechy@gmail.com",
@@ -20,5 +20,7 @@ setup(
         "Operating System :: OS Independent",
     ],
     url="https://github.com/hakiKhuva/flask-boilerplate-creator",
-    python_requires=">=3.8"
+    python_requires=">=3.8",
+    long_description=open("README.md","r").read(),
+    long_description_content_type="text/markdown"
 )
