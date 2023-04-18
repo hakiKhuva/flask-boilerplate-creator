@@ -2,8 +2,8 @@
 Generate boilerplate structure for flask web app
 
 author: Harkishan Khuva <harkishankhuva.pythonanywhere.com>
-created date: 07/04/2023 IST
-version: 0.0.3
+created date: 18/04/2023 IST
+version: 0.0.4
 """
 
 # :: IMPORTS
@@ -74,7 +74,7 @@ FILES_INPUT = {
         "from flask import Flask\n"
         "# from flask_migrate import Migrate # uncomment if need\n"
         "# from flask_session import Session # uncomment if need\n\n"
-        "# from .models import db # uncomment if need\n"
+        "# from .models.db import db # uncomment if need\n"
         "from .settings import APP_SETTINGS\n\n"
         "# migrate = Migrate() # uncomment if need \n"
         "# session = Session() # uncomment if need \n\n"
