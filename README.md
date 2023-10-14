@@ -1,6 +1,8 @@
 # Flask Boilerplate Creator
 Create boilerplate for flask web application
 
+[![Downloads](https://static.pepy.tech/badge/Flask-Boilerplate-Creator)](https://pepy.tech/project/Flask-Boilerplate-Creator)
+
 Install using pip
 
 ```cmd
